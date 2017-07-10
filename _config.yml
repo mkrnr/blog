@@ -1,0 +1,17 @@
+title: mkrnr's /etc
+email: info@mkrnr.com
+description: >
+  This place is for random stuff related to my Linux setup and whatnot.
+baseurl: ""
+url: https://mkrnr.com
+twitter_username: mkrnr
+github_username:  mkrnr
+
+# Build settings
+markdown: kramdown
+theme: blog-theme
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
